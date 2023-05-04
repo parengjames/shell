@@ -1,0 +1,13 @@
+.logo{
+    height: 30px;
+    width: 30px;
+    margin-right: 5px;
+  }
+  .brandname{
+    color: #DA291C;
+    font-size: 25px;
+  }
+  .brandname:hover{
+    color: #FF4500;
+    text-decoration: none;
+  }
